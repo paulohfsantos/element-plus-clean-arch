@@ -4,7 +4,6 @@
 - VueJS 3
 - Pinia
 - Vite
-- TailwindCSS
 - Axios
 - Typescript
 - Json-Server
